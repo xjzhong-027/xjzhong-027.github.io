@@ -1,6 +1,22 @@
-title: Minimal theme
+# 网站基本信息
+title: 钟显杰的个人主页
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 我是一个大三计算机专业的学生，对编程和技术充满热情。
+
+# 联系信息
+email: 572956580@qq.com
+github_username: xjzhong-027
+
+# Google Analytics（如果您有跟踪 ID，可以填入；否则可以保留为空）
+google_analytics: UA-XXXXXX-X
+
+# 主题设置
 theme: jekyll-theme-minimal
+
+
+# 网站的基本 URL 配置
+baseurl: "" # 如果你是通过子路径托管（例如 /blog），则设置为子路径
+url: "https://xjzhong-027.github.io" # 你的 GitHub Pages URL
+
+# 社交媒体信息
+twitter_username: xjzhong
