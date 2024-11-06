@@ -3,22 +3,34 @@ layout: default
 title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 ---
 
-# 欢迎来到我的个人主页  # Header 1 - 这里可以替换为您的欢迎语
+# 欢迎来到我的个人主页 
 
-我是钟显杰，目前是计算机专业的大三学生。对编程和技术充满热情，希望与您分享我的学习和项目成果。 # 在这里加入您的个人简介
+我是钟显杰，目前是计算机专业的大三学生。对编程和技术充满热情，希望与您分享我的学习和项目成果。 
 
 
 
-## 项目展示  # Header 2 - 这里可以改为“项目展示”或其他标题，并列出您的项目
+## 项目展示  
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>zhongxianjie</dd>
+<dt>Born</dt>
+<dd>2004</dd>
+<dt>Birthplace</dt>
+<dd>China</dd>
+<dt>college</dt>
+<dd>gdufs</dd>
+</dl>
 
 ### 项目 1：个人博客
 - **描述**：一个基于 Jekyll 和 GitHub Pages 的个人博客。
 - **链接**：[查看项目](https://github.com/xjzhong-027)
- ## 联系方式  # Header 2 - 添加您的联系方式
+ ## 联系方式 
 
 - **邮箱**：[572956580@qq.com](mailto:572956580@qq.com)
 - **GitHub**：[xjzhong-027](https://github.com/xjzhong-027)
-## 我的技能  # Header 2 - 添加一个技能展示部分
+## 我的技能 
 
 - **编程语言**：Python, Java, C++
 - **前端技术**：HTML, CSS, JavaScript
@@ -106,18 +118,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
