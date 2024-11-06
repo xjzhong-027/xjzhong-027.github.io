@@ -1,24 +1,29 @@
 ---
 layout: default
+title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 欢迎来到我的个人主页  # Header 1 - 这里可以替换为您的欢迎语
 
-[Link to another page](./another-page.html).
+我是钟显杰，目前是计算机专业的大三学生。对编程和技术充满热情，希望与您分享我的学习和项目成果。 # 在这里加入您的个人简介
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## 项目展示  # Header 2 - 这里可以改为“项目展示”或其他标题，并列出您的项目
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 项目 1：个人博客
+- **描述**：一个基于 Jekyll 和 GitHub Pages 的个人博客。
+- **链接**：[查看项目](https://github.com/xjzhong-027/my-blog)
+ ## 联系方式  # Header 2 - 添加您的联系方式
 
-## Header 2
+- **邮箱**：[572956580@qq.com](mailto:572956580@qq.com)
+- **GitHub**：[xjzhong-027](https://github.com/xjzhong-027)
+## 我的技能  # Header 2 - 添加一个技能展示部分
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **编程语言**：Python, Java, C++
+- **前端技术**：HTML, CSS, JavaScript
+- **工具**：Git, GitHub, VS Code
+- **框架和库**：TensorFlow, PyTorch, Flask
 
 ### Header 3
 
