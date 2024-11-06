@@ -13,7 +13,7 @@ title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 
 ### 项目 1：个人博客
 - **描述**：一个基于 Jekyll 和 GitHub Pages 的个人博客。
-- **链接**：[查看项目](https://github.com/xjzhong-027/my-blog)
+- **链接**：[查看项目](https://github.com/xjzhong-027)
  ## 联系方式  # Header 2 - 添加您的联系方式
 
 - **邮箱**：[572956580@qq.com](mailto:572956580@qq.com)
