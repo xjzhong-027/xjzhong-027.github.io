@@ -5,8 +5,8 @@ title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 
 # 欢迎来到我的个人主页 
 
-我是钟显杰，一个崇尚古典和摇滚精神的计算机小伙，Enjoy codeing。 
-I'm xjzhong,  majoring in computer science, who loves classical and rock n roll spirit. Enjoy coding.
+## 我是钟显杰，一个崇尚古典和摇滚精神的计算机小伙，Enjoy codeing。 
+## I'm xjzhong,  majoring in computer science, who loves classical and rock n roll spirit. Enjoy coding.
 
 ### 个人资料.
 
