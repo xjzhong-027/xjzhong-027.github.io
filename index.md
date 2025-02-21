@@ -5,9 +5,8 @@ title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 
 # 欢迎来到我的个人主页 
 
-我是钟显杰，目前是计算机专业的大三学生。对编程和技术充满热情，希望与您分享我的学习和项目成果。 
-
-
+我是钟显杰，一个崇尚古典和摇滚精神的计算机小伙，Enjoy codeing。 
+I'm xjzhong,  majoring in computer science, who loves classical and rock n roll spirit. Enjoy coding.
 
 ### 个人资料.
 
@@ -25,7 +24,7 @@ title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 ### 项目 1：个人博客
 - **描述**：一个基于 Jekyll 和 GitHub Pages 的个人博客。
 - **链接**：[查看项目](https://github.com/xjzhong-027)
- ## 联系方式 
+## 联系方式 
 
 - **邮箱**：[572956580@qq.com](mailto:572956580@qq.com)
 - **GitHub**：[xjzhong-027](https://github.com/xjzhong-027)
