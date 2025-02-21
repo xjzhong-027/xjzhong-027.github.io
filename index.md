@@ -32,25 +32,16 @@ title: 钟显杰的个人主页  # 在此处可以添加您的个人主页标题
 ## 我的技能 
 
 - **编程语言**：Python, Java, C++
-- **前端技术**：HTML, CSS, JavaScript
-- **工具**：Git, GitHub, VS Code
+- **前端技术**：HTML, CSS, JavaScript,vuejs
+- **工具**：GitHub, VS Code
 - **框架和库**：TensorFlow, PyTorch, Flask
 
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+欢迎交流任何有趣的想法
 ```
